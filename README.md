@@ -4,6 +4,6 @@
 Easy Peasy Lemon Squeezy Just put the OpenGL in the screen and draw the stuff!
 
 #Includes
-> 3d! 
-> Raytracing (sorta)!
-> 3d movement!
+- 3d! 
+- Raytracing (sorta)!
+- 3d movement!
